@@ -1,1 +1,0 @@
-function calcBmi(){}; function calcCalories(){};
